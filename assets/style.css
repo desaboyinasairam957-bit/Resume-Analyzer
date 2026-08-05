@@ -1,0 +1,24 @@
+/* assets/style.css - loaded by app.py via st.markdown */
+
+.stMetric {
+    background-color: #f8f9fb;
+    border-radius: 10px;
+    padding: 12px;
+}
+
+section[data-testid="stSidebar"] {
+    border-right: 1px solid #e6e6e6;
+}
+
+.stTabs [data-baseweb="tab"] {
+    font-weight: 600;
+}
+
+div.stButton > button[kind="primary"] {
+    border-radius: 8px;
+    font-weight: 600;
+}
+
+.stAlert {
+    border-radius: 10px;
+}
