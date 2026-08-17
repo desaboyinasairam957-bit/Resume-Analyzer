@@ -1,4 +1,4 @@
-# AI Resume Analyzer
+# Resume Analyzer
 
 A modular Streamlit app that analyzes a PDF resume, scores it for ATS
 compatibility, verifies fit against a specific job description, finds missing
